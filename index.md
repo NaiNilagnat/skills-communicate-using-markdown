@@ -6,3 +6,6 @@ Ewan ko, basta sana gumana ito mwehehhehe
 ``` Python
 print("Hello World")
 ```
+- [x] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
